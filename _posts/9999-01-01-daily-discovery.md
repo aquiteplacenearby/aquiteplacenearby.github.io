@@ -3,7 +3,7 @@ layout: default
 permalink: /:title
 ---
 
-Daily Discovery
+每天
 =====================
 
 **2019.12.11**
