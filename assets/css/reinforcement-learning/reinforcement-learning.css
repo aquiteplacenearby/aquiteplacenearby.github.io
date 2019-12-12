@@ -1,0 +1,17 @@
+#custom-handle {
+    width: 2em;
+    height: 1.6em;
+    top: 50%;
+    margin-top: -.8em;
+    text-align: center;
+    line-height: 1.6em;
+}
+#slider {
+    margin-top: 10px;
+    width: 200px;
+}
+
+#myTable {
+    align: left;
+    margin:0px auto;
+}

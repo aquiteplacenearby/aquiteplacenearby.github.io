@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/aquiteplacenearby/aquiteplacenearby.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 读书
+- [2019](https://pltc325.github.io/books-read-in-2019)
+- [2018](https://pltc325.github.io/books-read-in-2018)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 游戏
+- [2019](https://pltc325.github.io/games-played-in-2019)
 
-### Markdown
+### 运动
+- [2019](https://pltc325.github.io/sports-played-in-2019)
+- [2018](https://pltc325.github.io/sports-played-in-2018)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 电影
+- [2019](https://pltc325.github.io/films-watched-in-2019)
 
-```markdown
-Syntax highlighted code block
+### 连续剧
+- [2019](https://pltc325.github.io/videos-watched-in-2019)
 
-# Header 1
-## Header 2
-### Header 3
+### Machine Learning
 
-- Bulleted
-- List
+- [Linear Regression](https://pltc325.github.io/linear-regression)
+- [Logistic Regression](https://pltc325.github.io/logistic-regression)
+- [PCA](https://pltc325.github.io/pca)
+- [Tree Based Methods](https://pltc325.github.io/tree-based-methods)
+- [Line Search](https://pltc325.github.io/line-search)
+- [TensorFlow Notes](https://pltc325.github.io/tensorflow-notes)
 
-1. Numbered
-2. List
+### NLP
+- [Word2Vec](https://pltc325.github.io/word2vec)
 
-**Bold** and _Italic_ and `Code` text
+### Reinforcement Learning
 
-[Link](url) and ![Image](src)
-```
+- [Reinforcement Learning](https://pltc325.github.io/reinforcement-learning)
+- [figures](https://pltc325.github.io/reinforcement-learning-an-introduction-figures)
+- [ch2](https://pltc325.github.io/reinforcement-learning-an-introduction-ch2)
+- [ch3](https://pltc325.github.io/reinforcement-learning-an-introduction-ch3)
+- [ch4](https://pltc325.github.io/reinforcement-learning-an-introduction-ch4)
+- [ch5](https://pltc325.github.io/reinforcement-learning-an-introduction-ch5)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Linear Algebra
 
-### Jekyll Themes
+- [Solving Linear System](https://pltc325.github.io/solving-linear-system)
+- [Matrix](https://pltc325.github.io/matrix)
+- [Determinant](https://pltc325.github.io/determinant)
+- [Vector Space](https://pltc325.github.io/vector-space)
+- [Eigenvalue and Eigenvector](https://pltc325.github.io/eigenvalue-and-eigenvector)
+- [Symmetric Matrices and Quadratic Forms](https://pltc325.github.io/symmetric-matrices-and-quadratic-forms)
+- [Orthogonality and Least Squares](https://pltc325.github.io/orthogonality-and-least-squares)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aquiteplacenearby/aquiteplacenearby.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
