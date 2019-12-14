@@ -5,6 +5,11 @@ permalink: /:title
 
 2019
 =====================
+**《星际探索》**
+
+![星际探索](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/films_cover/%E6%98%9F%E9%99%85%E6%8E%A2%E7%B4%A2.jpg)
+
+
 **《利刃出鞘》**
 
 ![利刃出鞘](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/films_cover/%E5%88%A9%E5%88%83%E5%87%BA%E9%9E%98.jpg)
