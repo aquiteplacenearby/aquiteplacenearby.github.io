@@ -33,7 +33,7 @@ permalink: /:title
 
 2019年终于上黄金了。LPL也两连冠了。
 
-[LOG](https://pltc325.github.io/lol)
+[LOG](https://aquiteplacenearby.github.io/lol)
 
 ------
 
@@ -64,7 +64,7 @@ permalink: /:title
 
 消磨时间一大利器。
 
-[LOG](https://pltc325.github.io/sjyz)
+[LOG](https://aquiteplacenearby.github.io/sjyz)
 
 ------
 **《侠客英雄传3》** *精讯资讯*
@@ -75,4 +75,4 @@ permalink: /:title
 
 出山第一个村子的客栈里面的一桌坐的是隆和肯。
 
-[LOG](https://pltc325.github.io/xkyxz3)
+[LOG](https://aquiteplacenearby.github.io/xkyxz3)
