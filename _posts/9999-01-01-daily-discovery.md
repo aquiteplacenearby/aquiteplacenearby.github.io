@@ -64,3 +64,15 @@ permalink: /:title
 - 上古人类一开始会制作工具，就开始制造装饰品，服饰和艺术相关的东西
 - 空气可以溶于水，但很少，但在全氟化合物里可以很多，足以让人们通过液体呼吸
 - 液体分子越复杂，越表现出粘稠
+
+**2019.12.17**
+- 胃里有情绪感知器真好，随时了解自己情绪，并做出相应调整
+- 橄榄油闪点300+度，油锅温度200多，不会出现油滴爆燃
+- 液体表面分子和内部分子受力不平衡，会在表面形成一股张力，这也是为什么小昆虫可以在水面行走的原因。本质上是表面张力与重力达到了平衡。油灯的芯吸效应也是因为这个。
+- 新房卧室想放睡莲
+- 明网，深网，暗网
+- 同一个屋檐下：保安和接待小姑娘饶有兴致的描述几天前第一次吃芥末的体验，小姑娘说自己还没吃过  
+
+The Rue Mosnier with Flags/Édouard Manet
+![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/the_rue_mosnier_with_flags.jpg)
+
