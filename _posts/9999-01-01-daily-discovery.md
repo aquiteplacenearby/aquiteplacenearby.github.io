@@ -73,6 +73,6 @@ permalink: /:title
 - 明网，深网，暗网
 - 同一个屋檐下：保安和接待小姑娘饶有兴致的描述几天前第一次吃芥末的体验，小姑娘说自己还没吃过  
 
-The Rue Mosnier with Flags/Édouard Manet
+*The Rue Mosnier with Flags/Édouard Manet*
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/the_rue_mosnier_with_flags.jpg)
 
