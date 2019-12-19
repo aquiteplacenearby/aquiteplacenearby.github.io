@@ -76,3 +76,11 @@ permalink: /:title
 *The Rue Mosnier with Flags/Édouard Manet*
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/the_rue_mosnier_with_flags.jpg)
 
+**2019.12.19**
+- 碳原子数目小于5的烃很少，因为小分子会以气体的方式存在，如甲烷，乙烷，分子越长，沸点越高，越有可能以液体存在。大到40以上，就比较难以流动，如沥青
+- 柴油5至8个碳原子的烃，柴油9至21个，煤油介于两者之间6至16个
+- 阿尔弗雷德.诺贝尔发现了他老师发现并且隐藏的秘密，硝化甘油的不稳定性，并最终研究出了新型炸药，也因此成为了富翁
+- 911造成得大楼倒塌可能是由于飞机上的煤油燃料燃烧造成的
+
+*The Gardener/Vincent Van Gogh*
+![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/the_gardener.jpg)
