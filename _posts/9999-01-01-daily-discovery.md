@@ -84,3 +84,35 @@ permalink: /:title
 
 *The Gardener/Vincent Van Gogh*
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/the_gardener.jpg)
+
+**2019.12.20**
+- 甘蔗->甘蔗汁->酵母菌,吸收糖分，产生乙醇
+- 醉就是中毒，乙醇麻痹神经系统，轻微中毒让人陶醉
+- 乙醇的乙代表二，表示带有两个碳原子，甲醇有一个
+- 乙醇因为羟基(额外连接的氢氧原子)而是极性分子(电荷离开分子)，水也这样，因为都包含羟基，所以乙醇溶于水
+- 乙醇的烃基使其和脂肪很相似，因此可以穿过胃壁细胞直接进入血液，让人感到立刻见效。乙醇因此也可经呼吸系统排出，酒精检测仪的原理
+- 香水的主要载体是乙醇，香气分子可以溶于乙醇，涂在脸上后，乙醇会挥发
+- 葡萄酒里的丹宁，来自葡萄皮的一种分子，会使舌头干燥，当佐以油腻的食物时，会很合适，当然高度酒也有相同得效果
+- 味觉也会从大脑那里获取信息，橙色的草莓味冰淇淋更有可能被味觉认为是橙子味的
+- 乙醇让人脱水的原因是抑制了负责告诉肾脏保存水分的激素 
+- 水的比热容（加热所需要的热量）很大，让电热水壶成为厨房最耗电的设备
+
+```python
+# unwrap decorator
+def plus_one(func):
+    def wrapper(arg, kwarg):
+        return func(arg, kwarg) + 1        
+    wrapper.unwrapper = func
+    return wrapper
+
+@plus_one
+def func(x):
+    return x
+    
+# usage example
+func.unwrapper(1) # 1
+func(1) # 2
+```
+
+*Rusty/Nancy Merkle*
+![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/rusty-nancy-merkle.jpg)
