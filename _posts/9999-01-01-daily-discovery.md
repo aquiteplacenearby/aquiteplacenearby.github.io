@@ -128,3 +128,14 @@ func(1) # 2
 **2019.12.22**
 - 冬至包了饺子
 - 推了一段神界原罪的进度
+
+**2019.12.23**
+- 工匠会用蒸汽拆木质乐器的接头，高温会降低胶水与木头的粘合力
+- 波赛冬为了惩罚米诺斯国王不按照自己意愿将白牛献祭给自己，让王后爱上了白牛，并生下了半牛半人的怪胎，米诺斯陶尔
+- 橡胶rubber词根动词擦rub表明橡胶首先被用来做橡皮
+- 聚合物时同种分子相互键合成长链
+- 便利贴上的橡胶紧紧粘在便利贴这端，却松散的粘在其他物体上
+- 胶带分为三层，中间时透明塑料，底层是黏合剂，上层是特殊物质，一般很难与其永久粘合，这样才能卷起来
+
+*Seashells/linda woods*
+![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/seashells-linda-woods.jpg)
