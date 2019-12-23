@@ -138,5 +138,6 @@ func(1) # 2
 - 胶带分为三层，中间时透明塑料，底层是黏合剂，上层是特殊物质，一般很难与其永久粘合，这样才能卷起来
 - 今天把Pycharm的主题换成Material Theme, 把Color scheme换成了Ticle(rainglow)
 
-*Seashells/linda woods*
+*Seashells/Linda Woods*
+
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/seashells-linda-woods.jpg)
