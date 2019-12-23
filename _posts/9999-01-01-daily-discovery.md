@@ -73,7 +73,8 @@ permalink: /:title
 - 明网，深网，暗网
 - 同一个屋檐下：保安和接待小姑娘饶有兴致的描述几天前第一次吃芥末的体验，小姑娘说自己还没吃过  
 
-*The Rue Mosnier with Flags/Édouard Manet*  
+*The Rue Mosnier with Flags/Édouard Manet*
+
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/the_rue_mosnier_with_flags.jpg)
 
 **2019.12.19**
@@ -82,7 +83,8 @@ permalink: /:title
 - 阿尔弗雷德.诺贝尔发现了他老师发现并且隐藏的秘密，硝化甘油的不稳定性，并最终研究出了新型炸药，也因此成为了富翁
 - 911造成得大楼倒塌可能是由于飞机上的煤油燃料燃烧造成的
 
-*The Gardener/Vincent Van Gogh*  
+*The Gardener/Vincent Van Gogh*
+
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/the_gardener.jpg)
 
 **2019.12.20**
@@ -114,7 +116,8 @@ func.unwrapper(1) # 1
 func(1) # 2
 ```
 
-*Rusty/Nancy Merkle*  
+*Rusty/Nancy Merkle*
+
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/rusty-nancy-merkle.jpg)
 
 **2019.12.21**
@@ -139,6 +142,7 @@ func(1) # 2
 - 今天把Pycharm的主题换成Material Theme, 把Color scheme换成了Ticle(rainglow)
 
 
-*Seashells/Linda Woods*  
+*Seashells/Linda Woods*
+
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/seashells-linda-woods.jpg)
 
