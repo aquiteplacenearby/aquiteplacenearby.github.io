@@ -139,6 +139,5 @@ func(1) # 2
 - 今天把Pycharm的主题换成Material Theme, 把Color scheme换成了Ticle(rainglow)
 
 *Seashells/Linda Woods*
-
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/seashells-linda-woods.jpg)
 
