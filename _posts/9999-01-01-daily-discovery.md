@@ -140,3 +140,25 @@ func(1) # 2
 
 *Seashells/Linda Woods*  
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/seashells-linda-woods.jpg)
+
+**2019.12.24**
+- 今天是平安夜
+- 塑料由酚类和甲醛反应生成，苯酚和甲醛反应变硬之前塞在两个物体之间变硬后就会将两个物体黏在一起
+- 取代之前胶水(受热会溶解)而被应用在黏合剂领域的新型黏合剂在飞机制造业以及家具行业取得了巨大的成功
+- 强力胶由氰基丙烯酸酯构成，遇水会形成聚合物黏合剂
+- 索尼第三代降噪真好用
+- 油画中的油分子遇空气中的氧发生聚合反应，生成塑性涂层。反应需要时间，画家利用这点可以画出层层叠加在一起油画，在光线的穿透下产生独特的颜色。提香的油画，基督复活，有9层
+- 液晶分子一部分是规整的，一部分是流动的，因此被称为液晶。双苯环规整，两边电子极性，末端甲基富有弹性
+- 晶体，液晶，液体分子规则程度递减
+- 透明物质也可以改变光的振动，偏光太阳镜只会让一个方向上震荡的光通过，所以会暗
+- 黑白：液晶的改变光的偏振，通过改变液晶的极性来控制是否让光通过
+- 彩色：液晶每个像素点有3个基色的滤光片，可以让三种颜色通过
+
+```python
+# Python method function
+# Obj.meth(rags)=class.meth(rags)
+# __init__ new
+```
+
+*The Resurrection/Titian*  
+![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/the-resurrection-1544-titian.jpg)
