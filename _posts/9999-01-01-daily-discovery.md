@@ -162,3 +162,10 @@ func(1) # 2
 
 *The Resurrection/Titian*  
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/the-resurrection-1544-titian.jpg)
+
+**2019.12.25**
+- 发光二极管和液晶，oled和lcd，前者很好节能，色彩更丰富，视角更广，但亮度不及后者
+- 唾液可以溶解香味分子，送给味蕾，可以预先消化食物，平衡ph值
+- 每人每天贵分泌0.75到1升这种液体
+- 蛇的唾液腺分泌毒素，蚊子的分泌血阻凝剂
+- 神界3进入秘源主厅，感觉要结束了
