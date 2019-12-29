@@ -76,3 +76,10 @@ permalink: /:title
 出山第一个村子的客栈里面的一桌坐的是隆和肯。
 
 [LOG](https://aquiteplacenearby.github.io/xkyxz3)
+
+------
+**《黑魂3》** *From Software*
+
+![黑魂3](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/games_cover/dark_soul_3.jpg)
+
+[LOG](https://aquiteplacenearby.github.io/dark_soul_3)
