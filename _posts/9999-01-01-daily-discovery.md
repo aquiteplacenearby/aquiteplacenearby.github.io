@@ -227,10 +227,19 @@ builtins.global_var2 = 1
 - 云即是水，光在里面层层反射，最后射入人眼，让人感觉看到了“云”一样的东西
 
 **2020.1.1**
-- 去爬了宝俶山
+- 去爬了宝俶山，没带帽子，吹成sb，头疼
 - 吃了好吃的homemade烤鸡
 ```python
 # 通过在sys.path里加入project的path，可以在代码里面在import增加一级project的部分. 默认不加的话只能从project下的package开始
 # import project.package.module
 import sys
 sys.path.append('project_path')
+```
+
+**2020.1.2**
+- 所有原子都有一个共同的结构，当中的正电荷粒子质子，以及带负电荷的电子围绕在周围
+- 风让正电荷和负电荷在云中分离，产生电压，电压很大到可以让空气中电子剥离，这种放电过程中发出的光就是闪电
+- 人是由水主要构成的，电荷为了尽快到达地面会选择人体为最佳路径，树更好也含有水份。呆在车里因此更安全，因为车外壳是金属，比人电阻更小。飞机外壳在碳纤维中加了金属导体，所以安全
+
+*Evening In Paris is a painting/Sheryl*  
+![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/evening-in-paris-sheryl-hawkins.jpg)
