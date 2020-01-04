@@ -243,3 +243,10 @@ sys.path.append('project_path')
 
 *Evening In Paris is a painting/Sheryl*  
 ![ART](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/art/evening-in-paris-sheryl-hawkins.jpg)
+
+**2020.1.3**
+- 地球内部，核外流动金属液体，产生磁场。液体外是地幔，其外侧是地壳，被我们肉眼可见的地形植被覆盖
+- 南极冰盖含有地球60%的水，其融化一时造成海平面上升，另一个效果是造成海平面升高
+- 山也在重力作用下移动，很慢，数百万年才能有一个可以感知的距离
+- 焦油比花生酱粘稠20以倍，但仍然是液体。使用焦油和石子的混合物沥青铺路是因为焦油的自我修复性
+- 消灭了法兰不死骑士
