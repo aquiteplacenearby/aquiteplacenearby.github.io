@@ -254,3 +254,6 @@ sys.path.append('project_path')
 **2020.1.4**
 - 推进黑暗之魂3
 - 阅读HPO相关论文，并使用ipad和notebook做笔记
+
+**2020.1.5**
+- 推进黑暗之魂3
