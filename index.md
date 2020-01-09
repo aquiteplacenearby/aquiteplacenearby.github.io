@@ -13,6 +13,7 @@ layout: default
 - [2019](https://aquiteplacenearby.github.io/games-played-in-2019)
 
 ### 运动
+- [2020](https://aquiteplacenearby.github.io/sports-played-in-2020)
 - [2019](https://aquiteplacenearby.github.io/sports-played-in-2019)
 - [2018](https://aquiteplacenearby.github.io/sports-played-in-2018)
 
