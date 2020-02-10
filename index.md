@@ -6,6 +6,7 @@ layout: default
 - [Daily](https://aquiteplacenearby.github.io/daily-discovery)
 
 ### 读书
+- [2020](https://aquiteplacenearby.github.io/books-read-in-2020)
 - [2019](https://aquiteplacenearby.github.io/books-read-in-2019)
 - [2018](https://aquiteplacenearby.github.io/books-read-in-2018)
 
