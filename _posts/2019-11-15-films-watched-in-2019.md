@@ -7,12 +7,12 @@ permalink: /:title
 =====================
 **《叶问4》**
 
-![叶问4]()
+![叶问4](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/films_cover/ye_wen_4.jpg)
 
 
 **《星际探索》**
 
-![星际探索](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/films_cover/ye_wen_4.jpg)
+![星际探索](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/films_cover/xing_ji_tan_suo.jpg)
 
 
 **《利刃出鞘》**

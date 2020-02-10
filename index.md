@@ -19,6 +19,7 @@ layout: default
 - [2018](https://aquiteplacenearby.github.io/sports-played-in-2018)
 
 ### 电影
+- [2020](https://aquiteplacenearby.github.io/films-watched-in-2020)
 - [2019](https://aquiteplacenearby.github.io/films-watched-in-2019)
 
 ### 连续剧
