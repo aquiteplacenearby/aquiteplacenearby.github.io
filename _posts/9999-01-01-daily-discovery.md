@@ -305,3 +305,4 @@ sys.path.append('project_path')
 
 **2020.2.9**
 - 感到了些许平静，觉得只要每天有一点进步就行
+- 现在使用代理使用git，所以在pycharm里面也需要代理才能git push
