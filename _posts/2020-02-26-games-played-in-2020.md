@@ -13,4 +13,4 @@ permalink: /:title
 **《只狼》** *FROM SOFTWARE*
 ![只狼](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/games_cover/si_wang_xi_bao.jpg)
 
-虐。
+打败怨恨之鬼是一个了不起的成就。
