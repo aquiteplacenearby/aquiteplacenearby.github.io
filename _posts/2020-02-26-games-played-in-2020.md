@@ -11,7 +11,7 @@ permalink: /:title
 爽快。
 
 **《只狼》** *FROM SOFTWARE*
-![只狼](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/games_cover/si_wang_xi_bao.jpg)
+![只狼](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/games_cover/zhi_lang.jpg)
 
 打败怨恨之鬼是一个了不起的成就。
 
