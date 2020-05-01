@@ -14,3 +14,8 @@ permalink: /:title
 ![只狼](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/games_cover/si_wang_xi_bao.jpg)
 
 打败怨恨之鬼是一个了不起的成就。
+
+**《生化危机3重制版》** *CAPCOM*
+![生化危机3重制版](https://raw.githubusercontent.com/aquiteplacenearby/aquiteplacenearby.github.io/master/assets/images/games_cover/sheng_hua_wei_ji_3_chong_zhi_ban.jpg)
+
+我觉得还可以啊。
