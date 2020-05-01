@@ -12,6 +12,7 @@ layout: default
 
 ### 游戏
 - [2019](https://aquiteplacenearby.github.io/games-played-in-2019)
+- [2020](https://aquiteplacenearby.github.io/games-played-in-2020)
 
 ### 运动
 - [2020](https://aquiteplacenearby.github.io/sports-played-in-2020)
