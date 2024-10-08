@@ -3,8 +3,8 @@ layout: default
 ---
 
 ### 日有所获
-- [Daily](https://aquiteplacenearby.github.io/2024-10)
-- [Daily](https://aquiteplacenearby.github.io/daily-discovery)
+- [Daily11](https://aquiteplacenearby.github.io/2024-10)
+- [Daily22](https://aquiteplacenearby.github.io/daily-discovery)
 
 ### 读书
 - [2020](https://aquiteplacenearby.github.io/books-read-in-2020)
