@@ -3,6 +3,7 @@ layout: default
 ---
 
 ### 日有所获
+- [Daily](https://aquiteplacenearby.github.io/2024-10)
 - [Daily](https://aquiteplacenearby.github.io/daily-discovery)
 
 ### 读书
