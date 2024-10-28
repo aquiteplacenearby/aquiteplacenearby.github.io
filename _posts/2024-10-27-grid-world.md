@@ -8,11 +8,11 @@ comments: true
 
 grid world test
 
-<!-- <div class="container">
+<div class="container">
       <div class="input-container">
         <label for="k-value">Enter k value:</label>
         <input type="number" id="k-value" min="0" step="1" />
         <button id="submit-k">Submit</button>
       </div>
       <div class="grid" id="grid"></div>
-</div> -->
+</div>
