@@ -50,7 +50,7 @@
 
   {% if page.custom_css %}
   <link rel="stylesheet" href="{{ page.custom_css | relative_url }}" />
-  {% endif %} {% include_cached favicons.html %}
+  {% include grid-world.js %} {% endif %} {% include_cached favicons.html %}
 
   <!-- Resource Hints -->
   {% unless site.assets.self_host.enabled %} {% for hint in
