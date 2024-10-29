@@ -16,11 +16,7 @@ endif %}
   }}
 >
   <head>
-    {% include head.html %} {% if page.grid_world %}
-    <script type="text/javascript">
-      {% include grid-world/grid-world.js %}
-    </script>
-    {% endif %}
+    {% include head.html %} {% if page.grid_world %} {% endif %}
   </head>
   <body>
     {% include sidebar.html lang=lang %}
