@@ -135,7 +135,7 @@ tags: [TAG]     # TAG names should always be lowercase
       for (let i = 0; i < SIZE; i++) {
         for (let j = 0; j < SIZE; j++) {
           const cell = document.createElement("div");
-          cell.className = "cell";
+          cell.className = "cell_1";
           gridContainer.appendChild(cell);
         }
       }
