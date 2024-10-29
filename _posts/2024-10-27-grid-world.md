@@ -165,8 +165,6 @@ button {
       v = getNewV((k_value = k));
       for (let row = 0; row < SIZE; row++) {
         for (let col = 0; col < SIZE; col++) {
-          // const arrows = [UP_ARROW, DOWN_ARROW, LEFT_ARROW, RIGHT_ARROW];
-          // arrow = arrows[Math.floor(Math.random() * 4)];
           setEmpty(row, col);
           setValue(Number(v[SIZE * row + col].toFixed(2)), row, col);
           arrows = greedyAction(v, row, col);
