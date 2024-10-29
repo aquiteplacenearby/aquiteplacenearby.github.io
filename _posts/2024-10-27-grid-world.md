@@ -5,6 +5,7 @@ categories: [reinforcement-learning]
 tags: [grid-world]     # TAG names should always be lowercase
 comments: true
 grid_world: true
+custom_css: /assets/css/grid-world.css
 ---
 
 grid world test 111
@@ -29,7 +30,7 @@ tags: [TAG]     # TAG names should always be lowercase
 ```
 
 
-<style>
+<!-- <style>
 :root {
     --arrow-font-size: 15px;
 }
@@ -99,7 +100,7 @@ button {
     align-items: center;
     gap: 20px;
 }
-</style>
+</style> -->
 
 <div class="container">
       <div class="input-container">

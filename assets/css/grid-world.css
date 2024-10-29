@@ -1,0 +1,69 @@
+:root {
+  --arrow-font-size: 15px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(5, 50px);
+  grid-template-rows: repeat(5, 50px);
+}
+
+.cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  background-color: white;
+  position: relative;
+  margin: 0; /* Remove margin */
+  padding: 0; /* Remove padding */
+}
+
+.right_arrow {
+  font-size: var(--arrow-font-size);
+  position: absolute;
+  left: 50%;
+}
+
+.left_arrow {
+  font-size: var(--arrow-font-size);
+  position: absolute;
+  right: 50%;
+}
+
+.up_arrow {
+  font-size: var(--arrow-font-size);
+  position: absolute;
+  bottom: 43%;
+}
+
+.down_arrow {
+  font-size: var(--arrow-font-size);
+  position: absolute;
+  top: 43%;
+}
+
+.gray {
+  background-color: gray; /* Gray color for the top-left cell */
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+input[type='number'] {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
