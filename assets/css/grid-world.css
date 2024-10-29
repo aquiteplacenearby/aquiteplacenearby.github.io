@@ -1,5 +1,5 @@
 :root {
-  --arrow-font-size: 15px;
+  --arrow-font-size: 20px;
 }
 
 .grid {
@@ -44,7 +44,7 @@
 }
 
 .gray {
-  background-color: gray; /* Gray color for the top-left cell */
+  background-color: gray;
 }
 
 .input-container {
