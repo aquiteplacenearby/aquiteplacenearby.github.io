@@ -34,13 +34,13 @@
 .up_arrow {
   font-size: var(--arrow-font-size);
   position: absolute;
-  bottom: 43%;
+  bottom: 50%;
 }
 
 .down_arrow {
   font-size: var(--arrow-font-size);
   position: absolute;
-  top: 43%;
+  top: 50%;
 }
 
 .gray {
