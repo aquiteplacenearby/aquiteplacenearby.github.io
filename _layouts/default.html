@@ -15,18 +15,7 @@ endif %}
   prefer_mode
   }}
 >
-  <head>
-    {% include head.html %} {% if page.grid_world %}
-    <script type="text/javascript">
-      {% include grid-world/grid-world.js %}
-    </script>
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="assets/css/grid-world/grid-world.css"
-    />
-    {% endif %}
-  </head>
+  {% include head.html %}
 
   <body>
     {% include sidebar.html lang=lang %}
