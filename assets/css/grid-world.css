@@ -37,14 +37,14 @@
   font-family: 'PingFang SC', monospace;
   font-size: var(--arrow-font-size);
   position: absolute;
-  bottom: 40%;
+  bottom: 39%;
 }
 
 .down_arrow {
   font-family: 'PingFang SC', monospace;
   font-size: var(--arrow-font-size);
   position: absolute;
-  top: 40%;
+  top: 439%;
 }
 
 .gray {
