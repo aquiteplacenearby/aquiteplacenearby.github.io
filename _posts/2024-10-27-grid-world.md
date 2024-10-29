@@ -40,8 +40,3 @@ tags: [TAG]     # TAG names should always be lowercase
       </div>
       <div class="grid" id="grid"></div>
 </div>
-
-<script>
-  
-
-</script>
