@@ -135,7 +135,7 @@ tags: [TAG]     # TAG names should always be lowercase
       for (let i = 0; i < SIZE; i++) {
         for (let j = 0; j < SIZE; j++) {
           const cell = document.createElement("div");
-          cell.className = "cell_1";
+          cell.className = "cell";
           gridContainer.appendChild(cell);
         }
       }
@@ -164,12 +164,12 @@ tags: [TAG]     # TAG names should always be lowercase
       return cell;
     }
     function setArrow(arrow, i, j) {
-      const cell = document.querySelector(`.cell_1:nth-child(${i * SIZE + j + 1})`);
+      const cell = document.querySelector(`.cell:nth-child(${i * SIZE + j + 1})`);
       console.log(cell.className);
       setArrowDivToCell(arrow, cell);
     }
     function setValue(value, i, j) {
-      const cell = document.querySelector(`.cell_1:nth-child(${i * SIZE + j + 1})`);
+      const cell = document.querySelector(`.cell:nth-child(${i * SIZE + j + 1})`);
       valueDiv = document.createElement("div");
       valueDiv.textContent = value;
       valueDiv.style.position = "absolute";
@@ -179,7 +179,7 @@ tags: [TAG]     # TAG names should always be lowercase
       cell.appendChild(valueDiv);
     }
     function setEmpty(i, j) {
-      const cell = document.querySelector(`.cell_1:nth-child(${i * SIZE + j + 1})`);
+      const cell = document.querySelector(`.cell:nth-child(${i * SIZE + j + 1})`);
       cell.textContent = "";
     }
     createGrid(SIZE);
