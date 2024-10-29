@@ -4,6 +4,7 @@ date: 2024-10-26 20:08:20 +0800
 categories: [reinforcement-learning]
 tags: [grid-world]     # TAG names should always be lowercase
 comments: true
+grid_world: true
 ---
 
 grid world test
