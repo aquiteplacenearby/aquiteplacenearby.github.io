@@ -1,5 +1,7 @@
 <div id="vcomments"></div>
 <script>
+  console.log("bb", "{{ site.comments.valine.leancloud_appid }}");
+
   new Valine({
     el: "#vcomments",
     appId: "{{ site.valine.leancloud_appid }}",

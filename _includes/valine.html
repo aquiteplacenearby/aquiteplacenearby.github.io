@@ -1,11 +1,11 @@
 <div id="vcomments"></div>
 <script>
-  console.log("aa", "{{ site.valine.leancloud_appid }}");
+  console.log("aa", "{{ site.comments.valine.leancloud_appid }}");
   new Valine({
     el: "#vcomments",
-    appId: "{{ site.valine.leancloud_appid }}",
-    appKey: "{{ site.valine.leancloud_appkey }}",
-    placeholder: "{{ site.valine.placeholder }}",
-    avatar: "{{ site.valine.avatar }}",
+    appId: "{{ site.comments.valine.leancloud_appid }}",
+    appKey: "{{ site.comments.valine.leancloud_appkey }}",
+    placeholder: "{{ site.comments.valine.placeholder }}",
+    avatar: "{{ site.comments.valine.avatar }}",
   });
 </script>
