@@ -63,14 +63,3 @@ custom_css: /assets/css/grid-world.css
       </div>
       <div class="grid" id="grid"></div>
 </div>
-
-<div id="vcomments"></div>
-<script>
-    new Valine({
-        el: '#vcomments',
-        appId: '{{ site.valine.leancloud_appid }}',
-        appKey: '{{ site.valine.leancloud_appkey }}',
-        placeholder:'{{ site.valine.placeholder }}',
-        avatar: '{{ site.valine.avatar }}'
-    });
-</script>
