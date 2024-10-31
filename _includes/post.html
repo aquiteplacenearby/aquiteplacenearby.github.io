@@ -127,10 +127,9 @@ tail_includes:
     </div>
     <div id="toc-popup-content" class="px-4 py-3 pb-4"></div>
   </dialog>
-  {% endif %}
+  {% endif %} {% include valine.html %}
 
   <div class="content">{{ content }}</div>
-  {% include valine.html %}
   <div class="post-tail-wrapper text-muted">
     <!-- categories -->
     {% if page.categories.size > 0 %}
