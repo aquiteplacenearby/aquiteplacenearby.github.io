@@ -108,6 +108,7 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
+  provider: valine
   valine:
     comments: true # 是否启用valine
     leancloud_appid: lMAS5LNK4Le51jO1NjCPAFXl-MdYXbMMI # 填入你的APP ID
