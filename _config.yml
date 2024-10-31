@@ -107,12 +107,13 @@ social_preview_image: # string, local or CORS resources
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-valine:
-  comments: true # 是否启用valine
-  leancloud_appid: lMAS5LNK4Le51jO1NjCPAFXl-MdYXbMMI # 填入你的APP ID
-  leancloud_appkey: kIERCJRPIsq8TgkXj5zxSaDe # 填入你的APP Key
-  placeholder: Go go go! # 空白评论栏的占位符
-  avatar: mp
+comments:
+  valine:
+    comments: true # 是否启用valine
+    leancloud_appid: lMAS5LNK4Le51jO1NjCPAFXl-MdYXbMMI # 填入你的APP ID
+    leancloud_appkey: kIERCJRPIsq8TgkXj5zxSaDe # 填入你的APP Key
+    placeholder: Go go go! # 空白评论栏的占位符
+    avatar: mp
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
