@@ -16,10 +16,10 @@ timezone:
 
 title: plsyard # the main title
 
-tagline: # it will display as the subtitle
+tagline: 记录所思所想 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  哲学，人工智能，投资
+  哲学, 人工智能, 投资
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
